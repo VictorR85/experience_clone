@@ -1,2 +1,2 @@
 # experience_clone
-test project in Hellil (QA Tech Pro)
+test project in Hillel (QA Tech Pro)
